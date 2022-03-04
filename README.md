@@ -1,11 +1,11 @@
 ### Hi there I am Moissés Falcão 😉
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/moisses-falcao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img2.gratispng.com/20180712/wtz/kisspng-android-software-development-kotlin-mobile-app-dev-android-programming-5b47975c864181.2459683915314184605499.jpg">
   
 </div>
   

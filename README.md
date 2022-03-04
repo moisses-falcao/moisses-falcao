@@ -1,6 +1,5 @@
 ### Hi there I am Moissés Falcão 😉
 <div align="left">
-  <a href="https://github.com/moisses-falcao"> 
     <img height="180em" src="https://www.telesintese.com.br/wp-content/uploads/2018/10/Logo-Android.jpg"/>
 
 </div>

@@ -9,8 +9,6 @@
 - 💬 Ask me about my goals
 - 📫 My E-mail: moissesfalcao@gmail.com
 - 📱 My WhatsApp: +55 11 96915-3231
-
-- ⚡ Fun fact: I am actually working hart to be called to work on NTT DATA, and I am sure I will!!
   
   </div>
   

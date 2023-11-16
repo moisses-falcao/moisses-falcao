@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I’m always improving my Android skills
-- 🌱 I’m currently learning Google Analytics
+- 🌱 I’m currently learning Jetpack compose and Flutter
 - 💬 Ask me about my goals
 - 📫 My E-mail: moissesfalcao@gmail.com
 - 📱 My WhatsApp: +55 11 96915-3231
